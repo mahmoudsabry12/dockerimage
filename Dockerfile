@@ -1,4 +1,4 @@
-FRoM openjdk
+FROM openjdk
 
 WORKDIR /application
 
