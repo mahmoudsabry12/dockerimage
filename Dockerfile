@@ -1,4 +1,4 @@
-FORM openjdk
+FRoM openjdk
 
 WORKDIR /application
 
