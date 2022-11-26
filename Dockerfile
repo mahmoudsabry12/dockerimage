@@ -2,7 +2,7 @@ FROM openjdk
 
 WORKDIR /application
 
-COPY mahmoud.java.
+COPY mahmoud.java .
 
 RUN javac mahmoud.java
 
